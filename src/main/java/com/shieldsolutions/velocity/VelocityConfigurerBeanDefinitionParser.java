@@ -25,7 +25,7 @@ import org.springframework.beans.factory.xml.ParserContext;
 
 
 /**
- * Parse the <mvc:velocity-configurer> MVC namespace element and register an
+ * Parse the MVC namespace element and register an
  * VelocityConfigurer bean
  *
  * @author Rossen Stoyanchev
