@@ -27,7 +27,7 @@
 		<url>https://github.com/ghimisradu/spring-velocity-adapter</url>
 	</scm>
 	<properties>
-		<spring.version>5.0.2.RELEASE</spring.version>
+		<spring.version>5.0.16.RELEASE</spring.version>
 		<velocity.tools.version>2.0</velocity.tools.version>
 		<velocity.version>1.7</velocity.version>
 		<maven.compiler.plugin.version>3.7.0</maven.compiler.plugin.version>
